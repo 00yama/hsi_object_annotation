@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Annotation Tool</title>
+    <link href="{{ url_for('static', filename='css/output.css') }}" rel="stylesheet">
+</head>
+
+<body class="bg-gradient-to-r from-purple-100 via-pink-100 to-blue-100 text-gray-900 font-sans">
+    <div class="container mx-auto p-8">
+        <h1
+            class="text-5xl font-extrabold mb-8 text-center bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 text-transparent bg-clip-text">
+            画像アノテーションツール
+        </h1>
+
+        <div id="image-container" class="flex justify-center mb-6">
+            <img id="image" src="" alt="Image" class="max-w-md border border-gray-300 shadow-md rounded-lg">
+        </div>
+
+        <div class="mb-4 text-center">
+            <div class="grid grid-cols-5 gap-2">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="rider">運転手</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="pedestrian">通行人</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="road">道路</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="sidewalk">歩道</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="ground">屋外のグラウンド</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="floor">屋内の床</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="car">車</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="bicycle">自転車</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="escalator">エスカレーター</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="staircase">階段</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="traffic-sign">標識</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="traffic-light">信号</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="pole">電柱</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="building">建物</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="grass">草</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="plant">植木</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="tree">木</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="water">水辺</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="river-water">川</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="wall">壁</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="glass-wall">ガラスの壁</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="window">窓</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="door">ドア</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="chair">椅子</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="bench">ベンチ</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="table">テーブル</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="monitor">モニター</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="book">本</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                    data-tag="equipment">実験・工作機器</button>
+            </div>
+
+        </div>
+
+        <div class="flex justify-center mb-6">
+            <input type="text" id="other-tag-input" class="p-2 border border-gray-300 rounded-lg w-64"
+                placeholder="その他のタグを入力" />
+            <button id="add-other-tag-btn"
+                class="ml-2 p-2 bg-green-500 text-white rounded-lg hover:bg-green-600">追加</button>
+        </div>
+
+        <div id="annotation-form" class="flex justify-center mb-4 space-x-2">
+            <input type="text" id="tags-input" class="p-2 border border-gray-300 rounded-lg w-96" readonly
+                placeholder="ここにタグが追加されます" />
+            <button id="reset-btn" class="p-2 ml-2 bg-gray-500 text-white rounded-lg hover:bg-gray-600">リセット</button>
+        </div>
+
+        <div id="error-message" class="text-red-500 text-center text-xl m-4"></div>
+
+        <div class="flex justify-center space-x-4">
+            <button id="reject-btn" class="p-2 bg-red-500 text-white rounded-lg hover:bg-red-600">没データ</button>
+            <button id="next-btn" class="p-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">次のデータへ</button>
+        </div>
+
+    </div>
+
+    <script>
+        const images = JSON.parse('{{ image_files | tojson | safe }}');
+        let currentIndex = 0;
+        let tagsArray = [];
+
+        window.onload = function () {
+            if (images.length > 0) {
+                document.getElementById('image').src = images[currentIndex].path;
+            }
+        };
+
+        document.querySelectorAll('.tag-button').forEach(button => {
+            button.addEventListener('click', function () {
+                const tag = this.getAttribute('data-tag');
+                if (!tagsArray.includes(tag)) {
+                    tagsArray.push(tag);
+                    updateTagsInput();
+                }
+            });
+        });
+
+        document.getElementById('add-other-tag-btn').addEventListener('click', function () {
+            const otherTag = document.getElementById('other-tag-input').value.trim();
+            const errorMessage = document.getElementById('error-message');
+            errorMessage.textContent = '';
+
+            const englishOnlyRegex = /^[a-zA-Z]+$/;
+
+            if (!englishOnlyRegex.test(otherTag)) {
+                errorMessage.textContent = 'その他のタグはアルファベットのみ使用できます。';
+            } else if (otherTag !== otherTag.toLowerCase()) {
+                errorMessage.textContent = 'タグは小文字で入力してください。';
+            } else if (otherTag.endsWith('s')) {
+                errorMessage.textContent = 'タグは単数形で入力してください。';
+            } else if (otherTag && !tagsArray.includes(otherTag)) {
+                tagsArray.push(otherTag);
+                updateTagsInput();
+                document.getElementById('other-tag-input').value = '';
+            }
+        });
+
+        document.getElementById('reset-btn').addEventListener('click', function () {
+            tagsArray = [];
+            updateTagsInput();
+        });
+
+        function updateTagsInput() {
+            document.getElementById('tags-input').value = tagsArray.join(', ');
+        }
+
+        document.getElementById('reject-btn').addEventListener('click', function () {
+            const confirmation = confirm('本当に没データですか？');
+            if (confirmation) {
+                tagsArray = ['False'];
+                proceedToNext();
+            }
+        });
+
+        document.getElementById('next-btn').addEventListener('click', function () {
+            const errorMessage = document.getElementById('error-message');
+            if (tagsArray.length === 0) {
+                errorMessage.textContent = 'タグを少なくとも1つ選択してください。';
+            } else {
+                proceedToNext();
+            }
+        });
+
+        async function proceedToNext() {
+            const currentImage = images[currentIndex];
+            const errorMessage = document.getElementById('error-message');
+            errorMessage.textContent = '';
+
+            const response = await fetch('/save_annotations', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    data_name: currentImage.path,
+                    tags: tagsArray,
+                    place: currentImage.place
+                })
+            });
+
+            if (response.ok) {
+                currentIndex++;
+                if (currentIndex >= images.length) {
+                    alert('全ての画像のアノテーションが完了しました！');
+                    return;
+                }
+                document.getElementById('image').src = images[currentIndex].path;
+                tagsArray = [];
+                updateTagsInput();
+            }
+        }
+    </script>
+
+</body>
+
+</html>

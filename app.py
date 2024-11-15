@@ -5,40 +5,54 @@ from flask import Flask, render_template, request, jsonify
 
 app = Flask(__name__)
 
+# コマンドライン引数の設定
 parser = argparse.ArgumentParser(description="Start the image annotation tool.")
-parser.add_argument("image_folder", help="Specify the image folder within the static/images directory.")
+parser.add_argument("date_folder", help="Specify the date folder within the static/images directory (e.g., 08022024).")
 args = parser.parse_args()
 
-IMAGE_FOLDER = os.path.join('static', 'images', args.image_folder)
+# フォルダ名に 'RGB-' プレフィックスを追加
+FOLDER_PREFIX = "RGB-"
+FULL_DATE_FOLDER = f"{FOLDER_PREFIX}{args.date_folder}"
+DATE_FOLDER = os.path.join('static', 'images', FULL_DATE_FOLDER)
 
-if not os.path.exists(IMAGE_FOLDER):
-    raise FileNotFoundError(f"The specified folder {IMAGE_FOLDER} does not exist.")
+# フォルダの存在確認
+if not os.path.exists(DATE_FOLDER):
+    raise FileNotFoundError(f"The specified folder {DATE_FOLDER} does not exist.")
 
-DATA_FILE = 'data.json'
+# データファイル名の設定
+DATA_FILE = f'data_{args.date_folder}.json'
 
+# データファイルの存在確認および初期化
 if not os.path.exists(DATA_FILE):
-    with open(DATA_FILE, 'w') as f:
-        json.dump([], f)
+    with open(DATA_FILE, 'w', encoding='utf-8') as f:
+        json.dump([], f, ensure_ascii=False, indent=2)
 
 def get_image_files():
-    with open(DATA_FILE, 'r') as f:
-        try:
-            annotations = json.load(f)
-            tagged_images = set([annotation['data_name'] for annotation in annotations])
-        except json.JSONDecodeError:
-            tagged_images = set()
-
-    # all_images = [f for f in os.listdir(IMAGE_FOLDER) if f.endswith(('.jpg', '.png')) and 'Dark' not in f]
-    # image_files = [f'{args.image_folder}/{f}' for f in all_images if f'{args.image_folder}/{f}' not in tagged_images]
-
-    # add
     image_files = []
-    for root, dirs, files in os.walk(IMAGE_FOLDER):
-        for file in files:
-            if file.endswith(('.jpg', '.png')) and 'Dark' not in file:
-                file_path = os.path.join(root, file)
-                if file_path not in tagged_images:
-                    image_files.append(file_path)
+    # 各場所フォルダを取得
+    places = [d for d in os.listdir(DATE_FOLDER) if os.path.isdir(os.path.join(DATE_FOLDER, d))]
+
+    for place in places:
+        place_path = os.path.join(DATE_FOLDER, place)
+        # 画像ファイルを取得（.jpg または .png で、ファイル名に 'Dark' を含まないもの）
+        images_in_place = [f for f in os.listdir(place_path) if f.endswith(('.jpg', '.png')) and 'Dark' not in f]
+        
+        # 既にアノテーション済みの画像を取得
+        with open(DATA_FILE, 'r', encoding='utf-8') as f:
+            try:
+                annotations = json.load(f)
+                tagged_images = set([annotation['data_name'] for annotation in annotations])
+            except json.JSONDecodeError:
+                tagged_images = set()
+
+        for image in images_in_place:
+            # 正しいパス形式に修正
+            image_path = f"{FULL_DATE_FOLDER}/{place}/{image}"
+            if image_path not in tagged_images:
+                image_files.append({
+                    "place": place,
+                    "path": f"static/images/{image_path}"  # フロントエンド用のパス
+                })
 
     return image_files
 
@@ -54,9 +68,10 @@ def save_annotations():
     data = request.json
     image_name = data['data_name']
     tags = data['tags']
+    place = data['place']
 
     try:
-        with open(DATA_FILE, 'r') as f:
+        with open(DATA_FILE, 'r', encoding='utf-8') as f:
             file_content = f.read()
             if file_content.strip():
                 annotations = json.loads(file_content)
@@ -66,12 +81,14 @@ def save_annotations():
         annotations = []
 
     annotations.append({
-        "data_name": image_name,
-        "tags": tags
+        "data_name": image_name,  # 'RGB-08022024/place/image.jpg'
+        "tags": tags,
+        "place": place,
+        "status": "not review"
     })
 
-    with open(DATA_FILE, 'w') as f:
-        json.dump(annotations, f, indent=2)
+    with open(DATA_FILE, 'w', encoding='utf-8') as f:
+        json.dump(annotations, f, indent=2, ensure_ascii=False)
 
     return jsonify({"status": "success"}), 200
 
