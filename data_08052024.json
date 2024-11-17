@@ -1,0 +1,157 @@
+[
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-2F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240805_110857.jpg",
+    "tags": [
+      "floor",
+      "glass-wall"
+    ],
+    "place": "dendai-1-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-2F/rgb-Scan-d(s50x2,g50,19.88ms,350-1100)_20240805_110707.jpg",
+    "tags": [
+      "glass-wall"
+    ],
+    "place": "dendai-1-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-2F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240805_111550.jpg",
+    "tags": [
+      "floor",
+      "door"
+    ],
+    "place": "dendai-1-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-2F/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240805_110454.jpg",
+    "tags": [
+      "glass-wall",
+      "wall"
+    ],
+    "place": "dendai-1-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-2F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240805_111016.jpg",
+    "tags": [
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-1-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-5-10F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240805_094832.jpg",
+    "tags": [
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-5-10F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240805_094327.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-5-10F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240805_094742.jpg",
+    "tags": [
+      "wall",
+      "door"
+    ],
+    "place": "dendai-5-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-10F/rgb-Scan-d(s35x2,g50,28.45ms,350-1100)_20240805_103249.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "staircase",
+      "wall"
+    ],
+    "place": "dendai-1-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-10F/rgb-Scan-d(s35x2,g50,28.45ms,350-1100)_20240805_103018.jpg",
+    "tags": [
+      "wall",
+      "staircase",
+      "chair"
+    ],
+    "place": "dendai-1-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-10F/rgb-Scan-d(s35x2,g50,28.45ms,350-1100)_20240805_103135.jpg",
+    "tags": [
+      "wall",
+      "glass-wall"
+    ],
+    "place": "dendai-1-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-6F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240805_105951.jpg",
+    "tags": [
+      "staircase",
+      "chair",
+      "floor",
+      "wall",
+      "table"
+    ],
+    "place": "dendai-1-6F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-6F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240805_105759.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "wall",
+      "glass-wall"
+    ],
+    "place": "dendai-1-6F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-6F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240805_105846.jpg",
+    "tags": [
+      "wall",
+      "floor",
+      "chair",
+      "table"
+    ],
+    "place": "dendai-1-6F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-1-6F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240805_104019.jpg",
+    "tags": [
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-1-6F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08052024/dendai-connecter/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240805_112407.jpg",
+    "tags": [
+      "staircase",
+      "glass-wall"
+    ],
+    "place": "dendai-connecter",
+    "status": "not review"
+  }
+]
