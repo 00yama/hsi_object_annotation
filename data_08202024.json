@@ -1,0 +1,44 @@
+[
+  {
+    "data_name": "static/images/RGB-08202024/dendai-5-3F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240820_141518.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08202024/dendai-5-3F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240820_140118.jpg",
+    "tags": [
+      "glass-wall"
+    ],
+    "place": "dendai-5-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08202024/dendai-5-3F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240820_141239.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08202024/dendai-5-3F/rgb-c-Scan-d(s20x2,g50,49.88ms,350-1100)_20240820_135711.jpg",
+    "tags": [
+      "chair",
+      "floor"
+    ],
+    "place": "dendai-5-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08202024/dendai-5-3F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240820_140554.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-3F",
+    "status": "not review"
+  }
+]
