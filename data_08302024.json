@@ -1,0 +1,871 @@
+[
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_124036.jpg",
+    "tags": [
+      "floor",
+      "wall",
+      "door"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_125129.jpg",
+    "tags": [
+      "floor",
+      "glass-wall",
+      "door"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_123831.jpg",
+    "tags": [
+      "door",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_125954.jpg",
+    "tags": [
+      "glass-wall",
+      "floor"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_124243.jpg",
+    "tags": [
+      "wall",
+      "staircase"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_124452.jpg",
+    "tags": [
+      "wall",
+      "floor",
+      "door"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_124917.jpg",
+    "tags": [
+      "floor",
+      "door",
+      "wall",
+      "glass-wall"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-c-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_123622.jpg",
+    "tags": [
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_125747.jpg",
+    "tags": [
+      "floor",
+      "glass-wall",
+      "tree"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_125541.jpg",
+    "tags": [
+      "bench",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_124703.jpg",
+    "tags": [
+      "glass-wall",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_130159.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_125334.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_112208.jpg",
+    "tags": [
+      "staircase",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_110423.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_111700.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240830_113323.jpg",
+    "tags": [
+      "False"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-c-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_103757.jpg",
+    "tags": [
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_114051.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_111934.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240830_112443.jpg",
+    "tags": [
+      "glass-wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_111100.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_104144.jpg",
+    "tags": [
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_112718.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_113559.jpg",
+    "tags": [
+      "wall",
+      "glass-wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_110657.jpg",
+    "tags": [
+      "door",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240830_113754.jpg",
+    "tags": [
+      "glass-wall",
+      "tree",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_104625.jpg",
+    "tags": [
+      "glass-wall",
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_105457.jpg",
+    "tags": [
+      "staircase",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240830_112349.jpg",
+    "tags": [
+      "glass-wall",
+      "door"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_113156.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_104349.jpg",
+    "tags": [
+      "glass-wall",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s60x2,g50,16.55ms,350-1100)_20240830_112417.jpg",
+    "tags": [
+      "glass-wall",
+      "door",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_104752.jpg",
+    "tags": [
+      "glass-wall",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_111332.jpg",
+    "tags": [
+      "staircase",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_105225.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_105745.jpg",
+    "tags": [
+      "staircase",
+      "wall"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240830_113248.jpg",
+    "tags": [
+      "glass-wall",
+      "tree",
+      "building"
+    ],
+    "place": "dendai-5-2F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101734.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101250.jpg",
+    "tags": [
+      "window",
+      "wall"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100548.jpg",
+    "tags": [
+      "wall",
+      "door"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100412.jpg",
+    "tags": [
+      "window",
+      "wall"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_095727.jpg",
+    "tags": [
+      "wall",
+      "window"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_102719.jpg",
+    "tags": [
+      "wall",
+      "door"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_095521.jpg",
+    "tags": [
+      "wall",
+      "window",
+      "door",
+      "floor"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101424.jpg",
+    "tags": [
+      "window",
+      "wall",
+      "door"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101039.jpg",
+    "tags": [
+      "window",
+      "wall",
+      "door"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_102930.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101600.jpg",
+    "tags": [
+      "wall",
+      "door"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_095909.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-c-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_095210.jpg",
+    "tags": [
+      "wall",
+      "window",
+      "floor"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100902.jpg",
+    "tags": [
+      "glass-wall",
+      "wall",
+      "chair"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100043.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_102053.jpg",
+    "tags": [
+      "floor",
+      "door",
+      "wall"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_103141.jpg",
+    "tags": [
+      "wall",
+      "door"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100727.jpg",
+    "tags": [
+      "window",
+      "wall"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100232.jpg",
+    "tags": [
+      "wall",
+      "window"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101909.jpg",
+    "tags": [
+      "wall",
+      "window"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_102408.jpg",
+    "tags": [
+      "window",
+      "wall"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_095338.jpg",
+    "tags": [
+      "window",
+      "wall"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_102231.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-11F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_093021.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240830_090827.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092129.jpg",
+    "tags": [
+      "wall",
+      "door",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090317.jpg",
+    "tags": [
+      "wall",
+      "floor",
+      "door"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_094651.jpg",
+    "tags": [
+      "window",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_094445.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091618.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_092907.jpg",
+    "tags": [
+      "wall",
+      "door",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091736.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091318.jpg",
+    "tags": [
+      "wall",
+      "door"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_094030.jpg",
+    "tags": [
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091052.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092017.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_093822.jpg",
+    "tags": [
+      "door",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_093131.jpg",
+    "tags": [
+      "wall",
+      "window",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_094235.jpg",
+    "tags": [
+      "door",
+      "window",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090940.jpg",
+    "tags": [
+      "wall",
+      "floor",
+      "door"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092424.jpg",
+    "tags": [
+      "wall",
+      "glass-wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091846.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091503.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_093555.jpg",
+    "tags": [
+      "wall",
+      "door",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_093343.jpg",
+    "tags": [
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-c-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_084533.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090433.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090544.jpg",
+    "tags": [
+      "wall",
+      "door"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s3x2,g50,333.21ms,350-1100)_20240830_085920.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092240.jpg",
+    "tags": [
+      "wall",
+      "door",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092645.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090656.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092534.jpg",
+    "tags": [
+      "wall",
+      "door",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091202.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090122.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-5-12F",
+    "status": "not review"
+  }
+]

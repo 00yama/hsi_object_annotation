@@ -36,11 +36,17 @@ def plot_bar_chart(tag_counts):
     counts = [count for tag, count in sorted_tag_counts]
 
     plt.figure(figsize=(10, 6))
-    plt.bar(tags, counts, color='skyblue')
+    bars = plt.bar(tags, counts, color='skyblue')
     plt.xlabel("Tags")
     plt.ylabel("Counts")
     plt.title("Tag Frequencies")
     plt.xticks(rotation=45, ha='right')  # タグが長い場合に対応
+
+    # 各バーの上に数値を記入
+    for bar, count in zip(bars, counts):
+        plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height(),
+                 str(count), ha='center', va='bottom', fontsize=10)
+                 
     plt.tight_layout()  # レイアウト調整
     plt.show()
 
