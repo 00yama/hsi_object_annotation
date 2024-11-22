@@ -1,0 +1,4122 @@
+[
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090806.jpg",
+    "tags": [
+      "grass",
+      "car",
+      "building",
+      "road"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092208.jpg",
+    "tags": [
+      "ground",
+      "grass",
+      "pedestrian",
+      "car",
+      "river-water",
+      "tree",
+      "sidewalk"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093116.jpg",
+    "tags": [
+      "ground",
+      "river-water",
+      "building",
+      "sidewalk",
+      "grass",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100018.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093102.jpg",
+    "tags": [
+      "river-water",
+      "ground",
+      "grass",
+      "tree",
+      "building",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095349.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "river-water",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094902.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building",
+      "traffic-sign",
+      "traffic-light",
+      "road",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091305.jpg",
+    "tags": [
+      "car",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093512.jpg",
+    "tags": [
+      "traffic-light",
+      "traffic-sign",
+      "road",
+      "grass",
+      "building",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102545.jpg",
+    "tags": [
+      "building",
+      "sidewalk",
+      "grass",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101919.jpg",
+    "tags": [
+      "ground",
+      "grass",
+      "river-water",
+      "building",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102632.jpg",
+    "tags": [
+      "road",
+      "grass",
+      "sidewalk",
+      "building",
+      "pole",
+      "traffic-light"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093329.jpg",
+    "tags": [
+      "pedestrian",
+      "grass",
+      "ground",
+      "sidewalk",
+      "car",
+      "river-water",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090608.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "pedestrian",
+      "ground",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094450.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102426.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092753.jpg",
+    "tags": [
+      "building",
+      "sidewalk",
+      "grass",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100027.jpg",
+    "tags": [
+      "pole",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095558.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102156.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091925.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "river-water",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093713.jpg",
+    "tags": [
+      "building",
+      "sidewalk",
+      "grass",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102744.jpg",
+    "tags": [
+      "pedestrian",
+      "sidewalk",
+      "grass",
+      "building",
+      "traffic-light",
+      "pole",
+      "ground"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102208.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092633.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "tree",
+      "ground",
+      "river-water",
+      "building",
+      "pedestrian"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092154.jpg",
+    "tags": [
+      "ground",
+      "river-water",
+      "pedestrian",
+      "building",
+      "sidewalk",
+      "grass",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091844.jpg",
+    "tags": [
+      "building",
+      "sidewalk",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091515.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "tree",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101116.jpg",
+    "tags": [
+      "building",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092232.jpg",
+    "tags": [
+      "pedestrian",
+      "ground",
+      "sidewalk",
+      "grass",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100156.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "river-water",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094247.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095617.jpg",
+    "tags": [
+      "sidewalk",
+      "building",
+      "grass",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102218.jpg",
+    "tags": [
+      "pole",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090752.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092623.jpg",
+    "tags": [
+      "river-water",
+      "ground",
+      "grass",
+      "sidewalk",
+      "pedestrian",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090550.jpg",
+    "tags": [
+      "grass",
+      "ground",
+      "river-water",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101249.jpg",
+    "tags": [
+      "sidewalk",
+      "building",
+      "grass",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100143.jpg",
+    "tags": [
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102146.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "tree",
+      "ground",
+      "pedestrian",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090829.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094326.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100545.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090624.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "pedestrian",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090817.jpg",
+    "tags": [
+      "car",
+      "grass",
+      "traffic-sign",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100035.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "traffic-sign",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100009.jpg",
+    "tags": [
+      "car",
+      "grass",
+      "building",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093852.jpg",
+    "tags": [
+      "sidewalk",
+      "ground",
+      "grass",
+      "pedestrian",
+      "river-water",
+      "building",
+      "traffic-light"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092345.jpg",
+    "tags": [
+      "traffic-light",
+      "building",
+      "tree",
+      "traffic-sign"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091328.jpg",
+    "tags": [
+      "building",
+      "traffic-sign",
+      "traffic-light",
+      "car",
+      "grass",
+      "sidewalk",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095833.jpg",
+    "tags": [
+      "ground",
+      "grass",
+      "sidewalk",
+      "tree",
+      "river-water",
+      "car",
+      "pedestrian"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092806.jpg",
+    "tags": [
+      "building",
+      "sidewalk",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091315.jpg",
+    "tags": [
+      "car",
+      "building",
+      "grass",
+      "sidewalk",
+      "traffic-light"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102227.jpg",
+    "tags": [
+      "sidewalk",
+      "building",
+      "pole",
+      "car",
+      "traffic-sign"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100829.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092218.jpg",
+    "tags": [
+      "ground",
+      "sidewalk",
+      "grass",
+      "river-water",
+      "pedestrian",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091705.jpg",
+    "tags": [
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091739.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "traffic-light"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092556.jpg",
+    "tags": [
+      "ground",
+      "grass",
+      "tree",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102435.jpg",
+    "tags": [
+      "pole",
+      "building",
+      "pedestrian",
+      "sidewalk"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094342.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095921.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "tree",
+      "ground",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102136.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "tree",
+      "building",
+      "pedestrian"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100912.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "road",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091602.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "tree",
+      "river-water",
+      "building",
+      "pedestrian"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092135.jpg",
+    "tags": [
+      "pedestrian",
+      "grass",
+      "sidewalk",
+      "tree",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092653.jpg",
+    "tags": [
+      "ground",
+      "plant",
+      "sidewalk",
+      "grass",
+      "tree",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101952.jpg",
+    "tags": [
+      "pole",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095855.jpg",
+    "tags": [
+      "pedestrian",
+      "sidewalk",
+      "plant",
+      "tree",
+      "grass",
+      "ground",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090939.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "plant",
+      "ground",
+      "tree",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092849.jpg",
+    "tags": [
+      "car",
+      "grass",
+      "sidewalk",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091159.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101238.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090521.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "river-water",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092524.jpg",
+    "tags": [
+      "building",
+      "sidewalk",
+      "grass",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100052.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102651.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "road",
+      "building",
+      "pole",
+      "traffic-light",
+      "pedestrian"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095908.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "plant",
+      "pedestrian",
+      "ground",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092056.jpg",
+    "tags": [
+      "car",
+      "building",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092254.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094625.jpg",
+    "tags": [
+      "river-water",
+      "grass",
+      "sidewalk",
+      "plant",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091403.jpg",
+    "tags": [
+      "river-water",
+      "ground",
+      "grass",
+      "plant",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093200.jpg",
+    "tags": [
+      "river-water",
+      "ground",
+      "tree",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094547.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102256.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091416.jpg",
+    "tags": [
+      "car",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094208.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093759.jpg",
+    "tags": [
+      "traffic-sign",
+      "traffic-light",
+      "building",
+      "grass",
+      "road"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095328.jpg",
+    "tags": [
+      "ground",
+      "sidewalk",
+      "grass",
+      "plant",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102726.jpg",
+    "tags": [
+      "tree",
+      "ground",
+      "grass",
+      "traffic-sign",
+      "pedestrian",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100125.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102054.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "ground",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092241.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "plant",
+      "tree",
+      "pedestrian",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095506.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "ground",
+      "plant",
+      "tree",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101818.jpg",
+    "tags": [
+      "sidewalk",
+      "tree",
+      "grass",
+      "ground",
+      "water",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092725.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "pedestrian",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092043.jpg",
+    "tags": [
+      "grass",
+      "building",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102326.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "plant",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095933.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100900.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092331.jpg",
+    "tags": [
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092443.jpg",
+    "tags": [
+      "pedestrian",
+      "river-water",
+      "ground",
+      "sidewalk",
+      "grass",
+      "plant",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102247.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093953.jpg",
+    "tags": [
+      "pedestrian",
+      "ground",
+      "river-water",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091822.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095311.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-c-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090436.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100134.jpg",
+    "tags": [
+      "building",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102858.jpg",
+    "tags": [
+      "sidewalk",
+      "car",
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095729.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "plant",
+      "tree",
+      "river-water",
+      "ground"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092736.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091940.jpg",
+    "tags": [
+      "pedestrian",
+      "grass",
+      "sidewalk",
+      "plant",
+      "river-water",
+      "ground"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094810.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093038.jpg",
+    "tags": [
+      "pedestrian",
+      "sidewalk",
+      "grass",
+      "river-water",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102709.jpg",
+    "tags": [
+      "river-water",
+      "water",
+      "sidewalk",
+      "grass",
+      "plant",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102523.jpg",
+    "tags": [
+      "ground",
+      "tree",
+      "river-water",
+      "plant",
+      "grass",
+      "sidewalk",
+      "pedestrian"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090901.jpg",
+    "tags": [
+      "sidewalk",
+      "building",
+      "grass",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095845.jpg",
+    "tags": [
+      "pedestrian",
+      "sidewalk",
+      "plant",
+      "grass",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092125.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "plant",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102126.jpg",
+    "tags": [
+      "water",
+      "river-water",
+      "building",
+      "pedestrian",
+      "sidewalk",
+      "grass",
+      "ground",
+      "plant",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100043.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "traffic-light",
+      "traffic-sign",
+      "building",
+      "road"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093401.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094434.jpg",
+    "tags": [
+      "traffic-sign",
+      "building",
+      "ground",
+      "plant",
+      "grass",
+      "sidewalk",
+      "car",
+      "road"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101807.jpg",
+    "tags": [
+      "road",
+      "grass",
+      "sidewalk",
+      "pole",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092538.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091637.jpg",
+    "tags": [
+      "pedestrian",
+      "sidewalk",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095337.jpg",
+    "tags": [
+      "ground",
+      "sidewalk",
+      "grass",
+      "river-water",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093008.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091353.jpg",
+    "tags": [
+      "river-water",
+      "ground",
+      "plant",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090717.jpg",
+    "tags": [
+      "building",
+      "pole",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090925.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "pedestrian",
+      "river-water",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095518.jpg",
+    "tags": [
+      "traffic-sign",
+      "traffic-light",
+      "sidewalk",
+      "grass",
+      "pedestrian",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095256.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092934.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "sidewalk",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093431.jpg",
+    "tags": [
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102316.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "plant",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094610.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102114.jpg",
+    "tags": [
+      "ground",
+      "tree",
+      "plant",
+      "sidewalk",
+      "pedestrian",
+      "river-water",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093023.jpg",
+    "tags": [
+      "ground",
+      "river-water",
+      "grass",
+      "plant",
+      "sidewalk"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102935.jpg",
+    "tags": [
+      "ground",
+      "river-water",
+      "building",
+      "grass",
+      "sidewalk",
+      "tree",
+      "pedestrian"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100850.jpg",
+    "tags": [
+      "pole",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095453.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "ground"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094836.jpg",
+    "tags": [
+      "pole",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100931.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092512.jpg",
+    "tags": [
+      "pedestrian",
+      "grass",
+      "sidewalk",
+      "ground",
+      "river-water",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094639.jpg",
+    "tags": [
+      "ground",
+      "pedestrian",
+      "sidewalk",
+      "grass",
+      "tree",
+      "plant",
+      "river-water",
+      "car",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095533.jpg",
+    "tags": [
+      "traffic-light",
+      "traffic-sign",
+      "building",
+      "sidewalk",
+      "grass",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092714.jpg",
+    "tags": [
+      "ground",
+      "grass",
+      "sidewalk",
+      "river-water",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101342.jpg",
+    "tags": [
+      "pedestrian",
+      "sidewalk",
+      "grass",
+      "ground",
+      "plant",
+      "river-water",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100921.jpg",
+    "tags": [
+      "car",
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101544.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "plant",
+      "river-water",
+      "pedestrian",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091625.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "plant",
+      "river-water",
+      "building",
+      "pedestrian"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090739.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101747.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091340.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "sidewalk",
+      "ground",
+      "river-water",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093741.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100115.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "traffic-light",
+      "traffic-sign",
+      "building",
+      "road"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093812.jpg",
+    "tags": [
+      "road",
+      "car",
+      "traffic-light",
+      "traffic-sign",
+      "building",
+      "grass",
+      "tree",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093147.jpg",
+    "tags": [
+      "pole",
+      "traffic-sign",
+      "building",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101828.jpg",
+    "tags": [
+      "grass",
+      "road",
+      "pole",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101627.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "road"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093345.jpg",
+    "tags": [
+      "ground",
+      "sidewalk",
+      "grass",
+      "plant",
+      "car",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102306.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "plant",
+      "ground",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094414.jpg",
+    "tags": [
+      "traffic-light",
+      "traffic-sign",
+      "building",
+      "grass",
+      "road"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095050.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091550.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101157.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091034.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102847.jpg",
+    "tags": [
+      "ground",
+      "sidewalk",
+      "grass",
+      "plant",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091430.jpg",
+    "tags": [
+      "ground",
+      "sidewalk",
+      "grass",
+      "river-water",
+      "building",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093226.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "ground",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092110.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building",
+      "car",
+      "pedestrian"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094011.jpg",
+    "tags": [
+      "ground",
+      "river-water",
+      "plant",
+      "sidewalk",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092306.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101208.jpg",
+    "tags": [
+      "car",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101354.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "river-water",
+      "building",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092500.jpg",
+    "tags": [
+      "pedestrian",
+      "sidewalk",
+      "grass",
+      "ground",
+      "car",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_090840.jpg",
+    "tags": [
+      "building",
+      "car",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093309.jpg",
+    "tags": [
+      "pedestrian",
+      "sidewalk",
+      "grass",
+      "ground"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100944.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building",
+      "road"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094937.jpg",
+    "tags": [
+      "sidewalk",
+      "pedestrian",
+      "grass",
+      "building",
+      "ground",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093533.jpg",
+    "tags": [
+      "car",
+      "traffic-sign",
+      "building",
+      "grass",
+      "sidewalk"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092611.jpg",
+    "tags": [
+      "ground",
+      "grass",
+      "river-water",
+      "building",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101938.jpg",
+    "tags": [
+      "pedestrian",
+      "sidewalk",
+      "tree",
+      "plant",
+      "grass",
+      "ground",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095816.jpg",
+    "tags": [
+      "grass",
+      "tree",
+      "plant",
+      "ground",
+      "sidewalk",
+      "river-water",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092837.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "sidewalk"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093136.jpg",
+    "tags": [
+      "sidewalk",
+      "traffic-sign",
+      "grass",
+      "building",
+      "road"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091537.jpg",
+    "tags": [
+      "river-water",
+      "ground",
+      "plant",
+      "tree",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102349.jpg",
+    "tags": [
+      "road",
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102413.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "car",
+      "building",
+      "road"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092014.jpg",
+    "tags": [
+      "road",
+      "car",
+      "grass",
+      "traffic-sign",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095545.jpg",
+    "tags": [
+      "building",
+      "pole",
+      "sidewalk",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093929.jpg",
+    "tags": [
+      "river-water",
+      "building",
+      "ground",
+      "grass",
+      "plant",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092411.jpg",
+    "tags": [
+      "pedestrian",
+      "ground",
+      "grass",
+      "sidewalk",
+      "plant",
+      "river-water",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092029.jpg",
+    "tags": [
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095752.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "plant",
+      "ground",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094138.jpg",
+    "tags": [
+      "grass",
+      "sidewalk",
+      "river-water",
+      "ground",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102827.jpg",
+    "tags": [
+      "pole",
+      "car",
+      "building",
+      "road",
+      "tree"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095420.jpg",
+    "tags": [
+      "plant",
+      "sidewalk",
+      "grass",
+      "pedestrian",
+      "ground",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093939.jpg",
+    "tags": [
+      "building",
+      "river-water",
+      "ground",
+      "grass",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095435.jpg",
+    "tags": [
+      "grass",
+      "pedestrian",
+      "sidewalk",
+      "plant",
+      "ground",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091647.jpg",
+    "tags": [
+      "car",
+      "building",
+      "grass",
+      "sidewalk"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093050.jpg",
+    "tags": [
+      "pedestrian",
+      "ground",
+      "plant",
+      "tree",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102013.jpg",
+    "tags": [
+      "pedestrian",
+      "sidewalk",
+      "grass",
+      "ground",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094850.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "traffic-sign",
+      "traffic-light",
+      "road",
+      "car",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091914.jpg",
+    "tags": [
+      "river-water",
+      "tree",
+      "ground"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095227.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091727.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093642.jpg",
+    "tags": [
+      "ground",
+      "plant",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091055.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091241.jpg",
+    "tags": [
+      "building",
+      "traffic-light",
+      "pole",
+      "grass"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092953.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100000.jpg",
+    "tags": [
+      "grass",
+      "building",
+      "pole",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101322.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "ground",
+      "pedestrian",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100606.jpg",
+    "tags": [
+      "river-water",
+      "ground",
+      "grass",
+      "plant"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091452.jpg",
+    "tags": [
+      "sidewalk",
+      "grass",
+      "plant",
+      "tree",
+      "ground",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101525.jpg",
+    "tags": [
+      "ground",
+      "sidewalk",
+      "grass",
+      "plant",
+      "river-water",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_092359.jpg",
+    "tags": [
+      "traffic-light",
+      "traffic-sign",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102004.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_100954.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091254.jpg",
+    "tags": [
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_093457.jpg",
+    "tags": [
+      "building",
+      "grass",
+      "car"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_101647.jpg",
+    "tags": [
+      "grass",
+      "road",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_091526.jpg",
+    "tags": [
+      "ground",
+      "grass",
+      "plant",
+      "river-water"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_102400.jpg",
+    "tags": [
+      "car",
+      "road",
+      "sidewalk",
+      "grass",
+      "building",
+      "pole"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_094310.jpg",
+    "tags": [
+      "grass",
+      "building"
+    ],
+    "place": "arakawa-river-side",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_131716.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "wall",
+      "window"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133144.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_131850.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240906_132336.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s120x2,g1,8.21ms,350-1100)_20240906_133841.jpg",
+    "tags": [
+      "sidewalk",
+      "glass-wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s60x2,g1,16.55ms,350-1100)_20240906_134020.jpg",
+    "tags": [
+      "glass-wall",
+      "sidewalk",
+      "door"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_131922.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240906_132454.jpg",
+    "tags": [
+      "floor",
+      "wall",
+      "glass-wall",
+      "door"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240906_133912.jpg",
+    "tags": [
+      "sidewalk",
+      "glass-wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s60x2,g1,16.55ms,350-1100)_20240906_134044.jpg",
+    "tags": [
+      "sidewalk",
+      "door",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240906_132155.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "wall",
+      "door"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133535.jpg",
+    "tags": [
+      "floor",
+      "wall",
+      "glass-wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_132647.jpg",
+    "tags": [
+      "wall",
+      "floor",
+      "door",
+      "glass-wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133642.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133124.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_131559.jpg",
+    "tags": [
+      "chair",
+      "window",
+      "table",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133040.jpg",
+    "tags": [
+      "door",
+      "glass-wall",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133450.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_132941.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133243.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s60x2,g1,16.55ms,350-1100)_20240906_133935.jpg",
+    "tags": [
+      "sidewalk",
+      "glass-wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133334.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s120x2,g1,8.21ms,350-1100)_20240906_133743.jpg",
+    "tags": [
+      "glass-wall",
+      "building"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s120x2,g1,8.21ms,350-1100)_20240906_133806.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-c-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_131513.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "window",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133058.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_132756.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_131811.jpg",
+    "tags": [
+      "window",
+      "chair",
+      "table",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s120x2,g1,8.21ms,350-1100)_20240906_133817.jpg",
+    "tags": [
+      "glass-wall",
+      "sidewalk"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_131626.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "window",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_132816.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133011.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_132015.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133205.jpg",
+    "tags": [
+      "floor",
+      "glass-wall",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_132912.jpg",
+    "tags": [
+      "wall",
+      "door"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133412.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_131650.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "window",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_133613.jpg",
+    "tags": [
+      "door",
+      "sidewalk"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_132732.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-3F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240906_135402.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240906_135616.jpg",
+    "tags": [
+      "wall",
+      "floor",
+      "table",
+      "chair"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135236.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135223.jpg",
+    "tags": [
+      "wall",
+      "floor",
+      "table",
+      "chair",
+      "door"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135144.jpg",
+    "tags": [
+      "door",
+      "wall",
+      "chair",
+      "table"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135030.jpg",
+    "tags": [
+      "door",
+      "glass-wall",
+      "table",
+      "chair"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_134630.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240906_135701.jpg",
+    "tags": [
+      "floor",
+      "glass-wall",
+      "table",
+      "chair"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_134550.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_134753.jpg",
+    "tags": [
+      "floor",
+      "table",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240906_135329.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135045.jpg",
+    "tags": [
+      "floor",
+      "table",
+      "chair",
+      "door"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240906_135508.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240906_135440.jpg",
+    "tags": [
+      "floor",
+      "table",
+      "chair",
+      "wall",
+      "glass-wall",
+      "door"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240906_134907.jpg",
+    "tags": [
+      "building"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_134819.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135259.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table",
+      "floor"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135112.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "floor",
+      "wall",
+      "door"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240906_135531.jpg",
+    "tags": [
+      "glass-wall",
+      "table",
+      "chair",
+      "floor"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240906_134849.jpg",
+    "tags": [
+      "building",
+      "glass-wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135059.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "floor",
+      "door",
+      "glass-wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135002.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "glass-wall",
+      "building"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240906_135556.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240906_135345.jpg",
+    "tags": [
+      "table",
+      "floor",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240906_135635.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table",
+      "door",
+      "glass-wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_134659.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135158.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "glass-wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_134728.jpg",
+    "tags": [
+      "table",
+      "pedestrian",
+      "chair",
+      "floor"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s65x2,g50,15.27ms,350-1100)_20240906_135211.jpg",
+    "tags": [
+      "glass-wall",
+      "table",
+      "chair"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-9F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_134501.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-9F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_140710.jpg",
+    "tags": [
+      "floor",
+      "table",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_142307.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s12x2,g50,83.22ms,350-1100)_20240906_140411.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_141450.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-c-Scan-d(s12x2,g50,83.22ms,350-1100)_20240906_140251.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table",
+      "floor"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_142012.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_141535.jpg",
+    "tags": [
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_140831.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_140616.jpg",
+    "tags": [
+      "glass-wall",
+      "table",
+      "chair",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240906_140137.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table",
+      "floor"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_142354.jpg",
+    "tags": [
+      "escalator",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_141701.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_142209.jpg",
+    "tags": [
+      "wall",
+      "floor",
+      "escalator"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240906_140053.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_141304.jpg",
+    "tags": [
+      "pedestrian",
+      "table",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_141059.jpg",
+    "tags": [
+      "floor",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_141844.jpg",
+    "tags": [
+      "staircase",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_140917.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_141200.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s12x2,g50,83.22ms,350-1100)_20240906_140527.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_141003.jpg",
+    "tags": [
+      "floor",
+      "table",
+      "wall",
+      "glass-wall"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_141616.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-10F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240906_142057.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table",
+      "floor"
+    ],
+    "place": "dendai-2-10F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_111737.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_112411.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "floor",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240906_110953.jpg",
+    "tags": [
+      "sidewalk",
+      "road",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_110006.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "floor",
+      "tree",
+      "glass-wall",
+      "sidewalk"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_112605.jpg",
+    "tags": [
+      "escalator",
+      "glass-wall",
+      "tree"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_110452.jpg",
+    "tags": [
+      "floor",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240906_110825.jpg",
+    "tags": [
+      "road",
+      "tree"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_112238.jpg",
+    "tags": [
+      "floor",
+      "glass-wall",
+      "road",
+      "car",
+      "chair",
+      "table"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_110721.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_110325.jpg",
+    "tags": [
+      "wall",
+      "floor",
+      "table"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_111645.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "glass-wall",
+      "tree",
+      "plant",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240906_111613.jpg",
+    "tags": [
+      "glass-wall",
+      "table",
+      "chair",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_112207.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "floor",
+      "glass-wall",
+      "car",
+      "plant",
+      "tree"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_110203.jpg",
+    "tags": [
+      "sidewalk",
+      "glass-wall",
+      "tree",
+      "table",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_112507.jpg",
+    "tags": [
+      "chair",
+      "table",
+      "tree",
+      "sidewalk",
+      "glass-wall",
+      "floor"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_112301.jpg",
+    "tags": [
+      "plant",
+      "glass-wall",
+      "table",
+      "chair",
+      "sidewalk",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240906_110932.jpg",
+    "tags": [
+      "sidewalk",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_111854.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "floor",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_111804.jpg",
+    "tags": [
+      "glass-wall",
+      "table",
+      "chair",
+      "floor",
+      "tree",
+      "road",
+      "sidewalk"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240906_110847.jpg",
+    "tags": [
+      "road",
+      "tree",
+      "sidewalk"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_112804.jpg",
+    "tags": [
+      "wall",
+      "floor",
+      "chair"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_110541.jpg",
+    "tags": [
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_110755.jpg",
+    "tags": [
+      "floor",
+      "table",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240906_111302.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table",
+      "floor"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_110248.jpg",
+    "tags": [
+      "wall",
+      "chair",
+      "table"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_110350.jpg",
+    "tags": [
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_110422.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_112023.jpg",
+    "tags": [
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_110611.jpg",
+    "tags": [
+      "wall",
+      "glass-wall",
+      "tree",
+      "car"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_112335.jpg",
+    "tags": [
+      "floor",
+      "table",
+      "chair",
+      "road",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240906_110859.jpg",
+    "tags": [
+      "road",
+      "tree",
+      "sidewalk"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_110638.jpg",
+    "tags": [
+      "floor",
+      "table",
+      "chair",
+      "glass-wall",
+      "plant",
+      "car",
+      "traffic-sign"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240906_110913.jpg",
+    "tags": [
+      "road",
+      "sidewalk",
+      "tree"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_111108.jpg",
+    "tags": [
+      "sidewalk",
+      "glass-wall",
+      "chair",
+      "pedestrian"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_111825.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "floor",
+      "glass-wall",
+      "tree"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240906_111536.jpg",
+    "tags": [
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_112726.jpg",
+    "tags": [
+      "grass",
+      "door"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_111131.jpg",
+    "tags": [
+      "sidewalk",
+      "pedestrian",
+      "chair",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_110121.jpg",
+    "tags": [
+      "glass-wall",
+      "tree",
+      "road",
+      "floor"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_111044.jpg",
+    "tags": [
+      "sidewalk",
+      "staircase",
+      "chair"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240906_113047.jpg",
+    "tags": [
+      "door",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_112924.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "wall",
+      "floor"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_111949.jpg",
+    "tags": [
+      "floor",
+      "table",
+      "chair",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_111021.jpg",
+    "tags": [
+      "sidewalk",
+      "tree"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_112140.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240906_110838.jpg",
+    "tags": [
+      "road",
+      "tree"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240906_111347.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "floor",
+      "glass-wall",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-c-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_105904.jpg",
+    "tags": [
+      "glass-wall",
+      "plant",
+      "tree",
+      "table",
+      "chair"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240906_111425.jpg",
+    "tags": [
+      "wall",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240906_111236.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "floor",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_111705.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "floor",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_110517.jpg",
+    "tags": [
+      "glass-wall",
+      "wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240906_112100.jpg",
+    "tags": [
+      "glass-wall",
+      "plant",
+      "table",
+      "chair"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_110035.jpg",
+    "tags": [
+      "table",
+      "chair",
+      "floor"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240906_112637.jpg",
+    "tags": [
+      "tree",
+      "building"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/dendai-2-1F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240906_111209.jpg",
+    "tags": [
+      "floor",
+      "table",
+      "chair",
+      "wall",
+      "glass-wall"
+    ],
+    "place": "dendai-2-1F",
+    "status": "not review"
+  },
+  {
+    "data_name": "static/images/RGB-09062024/arakawa-river-side/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240906_095651.jpg",
+    "tags":[
+      "pole",
+      "grass",
+      "sidewalk",
+      "tree",
+      "building"
+    ],
+    "place":"arakawa-river-side",
+    "status":"not review"
+  }
+]
