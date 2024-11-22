@@ -58,7 +58,7 @@ def plot_category_distribution(distribution):
     plt.show()
 
 # メイン処理
-json_file = "data-object.json"  # JSONファイル名（例: "data.json"）
+json_file = "data.json"  # JSONファイル名（例: "data.json"）
 data = load_data(json_file)
 distribution = calculate_category_distribution(data)
 plot_category_distribution(distribution)
