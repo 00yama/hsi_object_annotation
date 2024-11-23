@@ -10,7 +10,7 @@ def count_files_in_folder(folder_path):
     :return: ファイル数（「Dark」を含まないもの）
     """
     file_count = 0
-    
+
     # os.walkを使って、指定されたフォルダとそのサブフォルダ内を再帰的に探索
     for root, dirs, files in os.walk(folder_path):
         for filename in files:
@@ -19,6 +19,23 @@ def count_files_in_folder(folder_path):
                 file_count += 1
     
     return file_count
+
+def count_dark_in_folder(folder_path):
+    """
+    指定されたフォルダ内およびサブフォルダ内でファイル名に「Dark」を含むファイルの数を数える。
+
+    :param folder_path: フォルダのパス
+    :return: ファイル数（「Dark」を含むもの）
+    """
+    dark_count = 0
+    # os.walkを使って、指定されたフォルダとそのサブフォルダ内を再帰的に探索
+    for root, dirs, files in os.walk(folder_path):
+        for filename in files:
+            # ファイル名に「Dark」がある場合
+            if "Dark" in filename:
+                dark_count += 1
+    
+    return dark_count
 
 def count_data_in_json(json_file):
     """
@@ -75,10 +92,15 @@ json_file = "data.json"  # JSONファイルのパスを指定
 # 1. フォルダ内の「Dark」を含まないファイル数をカウント
 file_count = count_files_in_folder(folder_path)
 
-# 2. JSONファイル内の有効なdata数をカウント
+# 2.フォルダ内の「Dark」を含むファイル数をカウント
+dark_count = count_dark_in_folder(folder_path)
+
+# 3. JSONファイル内の有効なdata数をカウント
 data_count = count_data_in_json(json_file)
 
 print(f"file_count:{file_count}")
 print(f"data_count:{data_count}")
-# 3. 円グラフを表示
+print(f"dark_count:{dark_count}")
+
+# 4. 円グラフを表示
 plot_pie_chart(file_count, data_count)
