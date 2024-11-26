@@ -51,7 +51,7 @@ def plot_category_distribution(distribution):
     plt.plot(categories, percentages, marker='o', color='skyblue', label="Category Distribution")
     plt.xlabel("Number of Categories per Image")
     plt.ylabel("Percentage of Images (%)")
-    plt.title("Categories per Image Distribution")
+    # plt.title("Categories per Image Distribution")
     plt.grid(alpha=0.3)
     plt.legend()
     plt.tight_layout()

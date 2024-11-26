@@ -39,7 +39,7 @@ def plot_bar_chart(tag_counts):
     bars = plt.bar(tags, counts, color='skyblue')
     plt.xlabel("Tags")
     plt.ylabel("Counts")
-    plt.title("Tag Frequencies")
+    # plt.title("Tag Frequencies")
     plt.xticks(rotation=45, ha='right')  # タグが長い場合に対応
 
     # 各バーの上に数値を記入
