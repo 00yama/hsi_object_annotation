@@ -86,7 +86,7 @@ def plot_pie_chart(file_count, data_count):
     plt.show()
 
 # 使用例
-folder_path = "/Users/RINKAOYAMA/Library/CloudStorage/Box-Box/033Lab_share/members/21aj/ToyoshigeHATA/HSI-RGB"  # フォルダのパスを指定
+folder_path = "./yourpath"  # フォルダのパスを指定
 json_file = "data.json"  # JSONファイルのパスを指定
 
 # 1. フォルダ内の「Dark」を含まないファイル数をカウント
