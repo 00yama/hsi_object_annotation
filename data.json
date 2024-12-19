@@ -9679,6 +9679,2585 @@
         "status": "not review"
     },
     {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114315.jpg",
+        "tags": [
+            "building",
+            "pole",
+            "traffic-sign",
+            "sidewalk",
+            "grass",
+            "tree"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_110543.jpg",
+        "tags": [
+            "pole",
+            "ground",
+            "building",
+            "tree",
+            "plant"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_110557.jpg",
+        "tags": [
+            "ground",
+            "plant",
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113352.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "ground",
+            "bench",
+            "road",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_112247.jpg",
+        "tags": [
+            "tree",
+            "building",
+            "ground",
+            "pole"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_115034.jpg",
+        "tags": [
+            "tree",
+            "pole",
+            "building",
+            "bench",
+            "ground",
+            "grass"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_112326.jpg",
+        "tags": [
+            "ground",
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,24.88ms,350-1100)_20240916_113705.jpg",
+        "tags": [
+            "road",
+            "ground",
+            "tree",
+            "plant",
+            "building",
+            "car"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-E_Scan(s40x2,g1,24.88ms,350-1100)_20240916_113812.jpg",
+        "tags": [
+            "sidewalk",
+            "plant",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113553.jpg",
+        "tags": [
+            "tree",
+            "ground",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114851.jpg",
+        "tags": [
+            "tree",
+            "ground",
+            "bench"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113142.jpg",
+        "tags": [
+            "road",
+            "plant",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_111117.jpg",
+        "tags": [
+            "pedestrian",
+            "car",
+            "tree",
+            "ground",
+            "building",
+            "traffic-sign"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_111833.jpg",
+        "tags": [
+            "bench",
+            "ground",
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_112556.jpg",
+        "tags": [
+            "plant",
+            "building",
+            "ground",
+            "road"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113222.jpg",
+        "tags": [
+            "ground",
+            "tree",
+            "plant",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_111249.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114339.jpg",
+        "tags": [
+            "building",
+            "tree",
+            "sidewalk",
+            "bench",
+            "bicycle"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_110744.jpg",
+        "tags": [
+            "building",
+            "ground",
+            "tree"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_112019.jpg",
+        "tags": [
+            "bench",
+            "ground",
+            "building",
+            "tree",
+            "plant"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-E_Scan(s90x2,g1,10.99ms,350-1100)_20240916_111735.jpg",
+        "tags": [
+            "plant",
+            "tree",
+            "building",
+            "ground",
+            "bench"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_112518.jpg",
+        "tags": [
+            "pole",
+            "plant",
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105808.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113319.jpg",
+        "tags": [
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114407.jpg",
+        "tags": [
+            "bench",
+            "ground",
+            "tree",
+            "building",
+            "plant"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113509.jpg",
+        "tags": [
+            "bench",
+            "ground",
+            "grass",
+            "plant"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113124.jpg",
+        "tags": [
+            "sidewalk",
+            "pedestrian",
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_112446.jpg",
+        "tags": [
+            "tree",
+            "building",
+            "ground",
+            "car"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_112219.jpg",
+        "tags": [
+            "car",
+            "bench",
+            "ground",
+            "plant"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,24.88ms,350-1100)_20240916_113616.jpg",
+        "tags": [
+            "tree",
+            "ground",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_110527.jpg",
+        "tags": [
+            "tree",
+            "ground",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114601.jpg",
+        "tags": [
+            "sidewalk",
+            "building",
+            "tree",
+            "pedestrian",
+            "pole"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_111846.jpg",
+        "tags": [
+            "ground",
+            "plant",
+            "tree",
+            "building",
+            "bench"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113109.jpg",
+        "tags": [
+            "pedestrian",
+            "bench",
+            "sidewalk",
+            "tree",
+            "plant",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113335.jpg",
+        "tags": [
+            "pedestrian",
+            "bench",
+            "sidewalk",
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113241.jpg",
+        "tags": [
+            "sidewalk",
+            "ground",
+            "plant",
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113527.jpg",
+        "tags": [
+            "car",
+            "plant",
+            "tree",
+            "ground",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_111448.jpg",
+        "tags": [
+            "rider",
+            "bicycle",
+            "plant",
+            "traffic-sign",
+            "ground",
+            "road",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114825.jpg",
+        "tags": [
+            "bench",
+            "tree",
+            "sidewalk",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113452.jpg",
+        "tags": [
+            "bench",
+            "ground",
+            "sidewalk",
+            "tree",
+            "plant",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_112539.jpg",
+        "tags": [
+            "road",
+            "sidewalk",
+            "ground",
+            "tree",
+            "plant",
+            "pole",
+            "pedestrian"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113259.jpg",
+        "tags": [
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_111232.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "sidewalk",
+            "ground",
+            "bench",
+            "building",
+            "pedestrian"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_112159.jpg",
+        "tags": [
+            "bench",
+            "car",
+            "plant",
+            "ground"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114222.jpg",
+        "tags": [
+            "ground",
+            "car",
+            "building",
+            "plant",
+            "tree",
+            "bench",
+            "road"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_110852.jpg",
+        "tags": [
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,24.88ms,350-1100)_20240916_113637.jpg",
+        "tags": [
+            "tree",
+            "ground",
+            "building",
+            "road"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_113947.jpg",
+        "tags": [
+            "building",
+            "tree",
+            "plant",
+            "ground"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105741.jpg",
+        "tags": [
+            "bench",
+            "plant",
+            "tree",
+            "building",
+            "ground",
+            "pole"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_112406.jpg",
+        "tags": [
+            "ground",
+            "plant",
+            "tree",
+            "building",
+            "car"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,10.99ms,350-1100)_20240916_111558.jpg",
+        "tags": [
+            "ground",
+            "pedestrian",
+            "tree",
+            "plant",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_112626.jpg",
+        "tags": [
+            "tree",
+            "ground",
+            "building",
+            "pedestrian"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,10.99ms,350-1100)_20240916_111613.jpg",
+        "tags": [
+            "pedestrian",
+            "traffic-sign",
+            "building",
+            "ground",
+            "tree",
+            "car",
+            "road"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114032.jpg",
+        "tags": [
+            "car",
+            "tree",
+            "plant",
+            "ground",
+            "building",
+            "road"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_110936.jpg",
+        "tags": [
+            "pole",
+            "building",
+            "plant",
+            "tree",
+            "road"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,49.88ms,350-1100)_20240916_113858.jpg",
+        "tags": [
+            "sidewalk",
+            "tree",
+            "plant",
+            "car",
+            "road",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114756.jpg",
+        "tags": [
+            "plant",
+            "road",
+            "bench"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114636.jpg",
+        "tags": [
+            "sidewalk",
+            "car",
+            "tree",
+            "building",
+            "bicycle",
+            "plant",
+            "road"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_112501.jpg",
+        "tags": [
+            "tree",
+            "building",
+            "pole"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114151.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "building",
+            "ground",
+            "car"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_110504.jpg",
+        "tags": [
+            "car",
+            "ground",
+            "tree",
+            "building",
+            "road"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-c-Scan-d(s70x2,g1,14.17ms,350-1100)_20240916_110412.jpg",
+        "tags": [
+            "ground",
+            "tree",
+            "plant"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114958.jpg",
+        "tags": [
+            "sidewalk",
+            "tree",
+            "plant",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_110909.jpg",
+        "tags": [
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113428.jpg",
+        "tags": [
+            "car",
+            "ground",
+            "plant",
+            "tree",
+            "bench",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114917.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "bench",
+            "sidewalk",
+            "ground",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_112311.jpg",
+        "tags": [
+            "car",
+            "pedestrian",
+            "bicycle",
+            "ground",
+            "road",
+            "pole",
+            "tree"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_110826.jpg",
+        "tags": [
+            "plant",
+            "building",
+            "ground",
+            "tree"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,10.99ms,350-1100)_20240916_111529.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "building",
+            "sidewalk"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(5x2,g1,15.27ms,350-1100)_20240916_113206.jpg",
+        "tags": [
+            "sidewalk",
+            "plant",
+            "tree"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114057.jpg",
+        "tags": [
+            "sidewalk",
+            "pedestrian",
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114719.jpg",
+        "tags": [
+            "tree",
+            "building",
+            "plant"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114525.jpg",
+        "tags": [
+            "plant",
+            "building",
+            "bench"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_111948.jpg",
+        "tags": [
+            "bench",
+            "ground",
+            "plant",
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_111814.jpg",
+        "tags": [
+            "ground",
+            "bench",
+            "tree",
+            "plant",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_111044.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "pedestrian",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114445.jpg",
+        "tags": [
+            "sidewalk",
+            "building",
+            "tree",
+            "plant",
+            "pole"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_111801.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "bench",
+            "ground",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,24.88ms,350-1100)_20240916_113730.jpg",
+        "tags": [
+            "building",
+            "plant",
+            "tree",
+            "road",
+            "sidewalk"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,14.17ms,350-1100)_20240916_110808.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "building",
+            "pole",
+            "ground"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_112128.jpg",
+        "tags": [
+            "plant",
+            "tree",
+            "ground",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,12.38ms,350-1100)_20240916_112100.jpg",
+        "tags": [
+            "bench",
+            "ground",
+            "tree",
+            "pole",
+            "building",
+            "plant"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,10.99ms,350-1100)_20240916_111506.jpg",
+        "tags": [
+            "sidewalk",
+            "road",
+            "plant",
+            "tree"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114251.jpg",
+        "tags": [
+            "plant",
+            "tree",
+            "pole",
+            "sidewalk",
+            "road",
+            "pedestrian"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,10.99ms,350-1100)_20240916_111712.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/asahi-park/rgb-Scan-d(0x2,g1,33.21ms,350-1100)_20240916_114126.jpg",
+        "tags": [
+            "bench",
+            "plant",
+            "ground",
+            "car",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104619.jpg",
+        "tags": [
+            "building",
+            "ground",
+            "grass"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105504.jpg",
+        "tags": [
+            "road",
+            "car",
+            "building",
+            "plant",
+            "bicycle"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s85x2,g1,11.64ms,350-1100)_20240916_104340.jpg",
+        "tags": [
+            "road",
+            "plant",
+            "building",
+            "grass"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105302.jpg",
+        "tags": [
+            "road",
+            "car",
+            "bicycle",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105317.jpg",
+        "tags": [
+            "road",
+            "building",
+            "car",
+            "bicycle"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104810.jpg",
+        "tags": [
+            "bicycle",
+            "road",
+            "building",
+            "grass"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105111.jpg",
+        "tags": [
+            "road",
+            "building",
+            "pole",
+            "grass",
+            "bicycle"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105449.jpg",
+        "tags": [
+            "car",
+            "pole",
+            "bicycle",
+            "road",
+            "building",
+            "plant"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s90x2,g1,10.99ms,350-1100)_20240916_104408.jpg",
+        "tags": [
+            "grass",
+            "building",
+            "road",
+            "bicycle"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105058.jpg",
+        "tags": [
+            "grass",
+            "plant",
+            "road",
+            "bicycle"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105528.jpg",
+        "tags": [
+            "bicycle",
+            "car",
+            "road",
+            "plant",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104741.jpg",
+        "tags": [
+            "grass",
+            "plant",
+            "bicycle",
+            "building",
+            "road",
+            "traffic-sign"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104755.jpg",
+        "tags": [
+            "grass",
+            "plant",
+            "building",
+            "traffic-sign"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104543.jpg",
+        "tags": [
+            "bicycle",
+            "traffic-sign",
+            "grass",
+            "road",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104635.jpg",
+        "tags": [
+            "grass",
+            "plant",
+            "road",
+            "building",
+            "traffic-sign"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104646.jpg",
+        "tags": [
+            "bicycle",
+            "road",
+            "traffic-sign",
+            "building",
+            "grass",
+            "plant",
+            "tree"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104848.jpg",
+        "tags": [
+            "grass",
+            "building",
+            "pole"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104903.jpg",
+        "tags": [
+            "road",
+            "building",
+            "grass"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105604.jpg",
+        "tags": [
+            "grass",
+            "road",
+            "tree",
+            "plant"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105417.jpg",
+        "tags": [
+            "car",
+            "bicycle",
+            "road",
+            "building",
+            "plant"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105403.jpg",
+        "tags": [
+            "road",
+            "car",
+            "bicycle",
+            "pole",
+            "sidewalk"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-c-Scan-d(s90x2,g1,10.99ms,350-1100)_20240916_104426.jpg",
+        "tags": [
+            "road",
+            "grass",
+            "bicycle",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104508.jpg",
+        "tags": [
+            "building",
+            "road",
+            "grass"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105212.jpg",
+        "tags": [
+            "bicycle",
+            "road",
+            "car",
+            "building",
+            "pole"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105009.jpg",
+        "tags": [
+            "grass",
+            "road",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105343.jpg",
+        "tags": [
+            "bicycle",
+            "car",
+            "building",
+            "road",
+            "pole"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105020.jpg",
+        "tags": [
+            "road",
+            "pole",
+            "grass",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105142.jpg",
+        "tags": [
+            "bicycle",
+            "car",
+            "building",
+            "grass",
+            "plant"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104922.jpg",
+        "tags": [
+            "grass",
+            "building",
+            "road"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105157.jpg",
+        "tags": [
+            "road",
+            "bicycle",
+            "car",
+            "grass",
+            "plant",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105547.jpg",
+        "tags": [
+            "grass",
+            "tree",
+            "plant",
+            "road",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104715.jpg",
+        "tags": [
+            "road",
+            "grass",
+            "traffic-sign",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104728.jpg",
+        "tags": [
+            "grass",
+            "road",
+            "building",
+            "traffic-sign"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105230.jpg",
+        "tags": [
+            "road",
+            "car",
+            "bicycle",
+            "building",
+            "grass"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104702.jpg",
+        "tags": [
+            "grass",
+            "bicycle",
+            "road",
+            "traffic-sign",
+            "building",
+            "sidewalk"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104529.jpg",
+        "tags": [
+            "road",
+            "grass",
+            "bicycle",
+            "traffic-sign",
+            "pole"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104823.jpg",
+        "tags": [
+            "grass",
+            "road",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104837.jpg",
+        "tags": [
+            "grass",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105042.jpg",
+        "tags": [
+            "building",
+            "grass"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104955.jpg",
+        "tags": [
+            "bicycle",
+            "road",
+            "grass",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105332.jpg",
+        "tags": [
+            "bicycle",
+            "car",
+            "road",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104944.jpg",
+        "tags": [
+            "grass",
+            "road",
+            "bicycle",
+            "building"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_104601.jpg",
+        "tags": [
+            "bicycle",
+            "road",
+            "building",
+            "traffic-sign",
+            "grass"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105245.jpg",
+        "tags": [
+            "pedestrian",
+            "car",
+            "bicycle",
+            "road",
+            "grass"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09162024/road/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240916_105127.jpg",
+        "tags": [
+            "grass",
+            "road",
+            "car",
+            "plant"
+        ],
+        "place": "road",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/asahi-park/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240917_143309.jpg",
+        "tags": [
+            "tree",
+            "building",
+            "plant",
+            "bench",
+            "ground"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/asahi-park/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_143451.jpg",
+        "tags": [
+            "tree",
+            "building",
+            "ground",
+            "plant",
+            "pedestrian"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/asahi-park/rgb-Scan-d(s110x2,g1,8.97ms,350-1100)_20240917_143324.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "building",
+            "bench",
+            "ground"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/asahi-park/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_143442.jpg",
+        "tags": [
+            "ground",
+            "tree",
+            "car",
+            "bench"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/asahi-park/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_143432.jpg",
+        "tags": [
+            "bench",
+            "ground",
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/asahi-park/rgb-c-Scan-d(s132x2,g1,7.45ms,350-1100)_20240917_143241.jpg",
+        "tags": [
+            "tree",
+            "building",
+            "bench"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/asahi-park/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_143420.jpg",
+        "tags": [
+            "road",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/asahi-park/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_143347.jpg",
+        "tags": [
+            "tree",
+            "pole",
+            "building",
+            "bench",
+            "plant"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/asahi-park/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_143410.jpg",
+        "tags": [
+            "tree",
+            "building"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/asahi-park/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_143358.jpg",
+        "tags": [
+            "pole",
+            "building",
+            "plant",
+            "road"
+        ],
+        "place": "asahi-park",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240917_164610.jpg",
+        "tags": [
+            "door",
+            "wall",
+            "floor"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240917_164311.jpg",
+        "tags": [
+            "wall"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-c-Scan-d(s8x2,g50,124.88ms,350-1100)_20240917_164946.jpg",
+        "tags": [
+            "door",
+            "floor",
+            "wall"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240917_165216.jpg",
+        "tags": [
+            "wall",
+            "door",
+            "floor"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240917_164047.jpg",
+        "tags": [
+            "floor",
+            "door",
+            "wall"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240917_165340.jpg",
+        "tags": [
+            "door",
+            "floor",
+            "wall"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240917_163610.jpg",
+        "tags": [
+            "wall",
+            "floor",
+            "door"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240917_163716.jpg",
+        "tags": [
+            "door",
+            "wall",
+            "floor"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240917_163937.jpg",
+        "tags": [
+            "wall",
+            "floor",
+            "door"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240917_165531.jpg",
+        "tags": [
+            "door",
+            "floor",
+            "wall",
+            "window"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240917_164422.jpg",
+        "tags": [
+            "door",
+            "wall",
+            "floor"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240917_163826.jpg",
+        "tags": [
+            "door",
+            "wall",
+            "floor"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240917_164156.jpg",
+        "tags": [
+            "wall"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-6F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240917_165655.jpg",
+        "tags": [
+            "door",
+            "window",
+            "floor",
+            "wall"
+        ],
+        "place": "dendai-1-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161342.jpg",
+        "tags": [
+            "building",
+            "grass"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161849.jpg",
+        "tags": [
+            "building",
+            "glass-wall",
+            "plant",
+            "tree"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_160937.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161036.jpg",
+        "tags": [
+            "glass-wall",
+            "building",
+            "grass"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161208.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s40x2,g1,24.88ms,350-1100)_20240917_162337.jpg",
+        "tags": [
+            "glass-wall",
+            "tree",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161351.jpg",
+        "tags": [
+            "grass",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_163040.jpg",
+        "tags": [
+            "bench",
+            "sidewalk"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240917_163214.jpg",
+        "tags": [
+            "table",
+            "chair",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161027.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161521.jpg",
+        "tags": [
+            "building",
+            "plant",
+            "tree",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_160817.jpg",
+        "tags": [
+            "glass-wall",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_160801.jpg",
+        "tags": [
+            "wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161442.jpg",
+        "tags": [
+            "bench",
+            "sidewalk",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_161114.jpg",
+        "tags": [
+            "glass-wall",
+            "plant",
+            "building",
+            "tree"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161226.jpg",
+        "tags": [
+            "glass-wall",
+            "grass",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_162002.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "glass-wall",
+            "table",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240917_162937.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161637.jpg",
+        "tags": [
+            "building",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_160957.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240917_163311.jpg",
+        "tags": [
+            "chair",
+            "plant",
+            "sidewalk"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161903.jpg",
+        "tags": [
+            "glass-wall",
+            "building",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_162205.jpg",
+        "tags": [
+            "building",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s20x2,g1,49.88ms,350-1100)_20240917_162551.jpg",
+        "tags": [
+            "plant",
+            "bench",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161753.jpg",
+        "tags": [
+            "building",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161321.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161816.jpg",
+        "tags": [
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161427.jpg",
+        "tags": [
+            "sidewalk",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161647.jpg",
+        "tags": [
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240917_162947.jpg",
+        "tags": [
+            "tree",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161914.jpg",
+        "tags": [
+            "building",
+            "glass-wall",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_160736.jpg",
+        "tags": [
+            "building",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s20x2,g1,49.88ms,350-1100)_20240917_162634.jpg",
+        "tags": [
+            "table",
+            "chair",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161542.jpg",
+        "tags": [
+            "building",
+            "tree",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s20x2,g1,49.88ms,350-1100)_20240917_162741.jpg",
+        "tags": [
+            "plant",
+            "tree",
+            "chair"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_162116.jpg",
+        "tags": [
+            "glass-wall",
+            "tree",
+            "plant",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_162100.jpg",
+        "tags": [
+            "building",
+            "tree",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240917_163248.jpg",
+        "tags": [
+            "chair",
+            "table",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240917_162955.jpg",
+        "tags": [
+            "tree",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161330.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_160947.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_162813.jpg",
+        "tags": [
+            "building",
+            "glass-wall",
+            "sidewalk",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161559.jpg",
+        "tags": [
+            "building",
+            "glass-wall",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161248.jpg",
+        "tags": [
+            "plant",
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161923.jpg",
+        "tags": [
+            "building",
+            "glass-wall",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161048.jpg",
+        "tags": [
+            "building",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_161408.jpg",
+        "tags": [
+            "plant",
+            "glass-wall",
+            "sidewalk",
+            "door"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_162144.jpg",
+        "tags": [
+            "glass-wall",
+            "plant",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s20x2,g1,49.88ms,350-1100)_20240917_162417.jpg",
+        "tags": [
+            "bench",
+            "plant",
+            "glass-wall",
+            "sidewalk"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_160909.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_160921.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_160654.jpg",
+        "tags": [
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_162155.jpg",
+        "tags": [
+            "building",
+            "glass-wall",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161614.jpg",
+        "tags": [
+            "building",
+            "glass-wall",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161306.jpg",
+        "tags": [
+            "plant",
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_160855.jpg",
+        "tags": [
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161831.jpg",
+        "tags": [
+            "plant",
+            "tree",
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_160843.jpg",
+        "tags": [
+            "building",
+            "tree",
+            "glass-wall",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_161142.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161933.jpg",
+        "tags": [
+            "building",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_162041.jpg",
+        "tags": [
+            "building",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_162243.jpg",
+        "tags": [
+            "glass-wall",
+            "building",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_160831.jpg",
+        "tags": [
+            "building",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-c-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_160555.jpg",
+        "tags": [
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161738.jpg",
+        "tags": [
+            "building",
+            "tree",
+            "plant",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161217.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240917_162907.jpg",
+        "tags": [
+            "building",
+            "tree"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_160527.jpg",
+        "tags": [
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s20x2,g1,49.88ms,350-1100)_20240917_162707.jpg",
+        "tags": [
+            "plant",
+            "chair",
+            "glass-wall",
+            "tree"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161017.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161713.jpg",
+        "tags": [
+            "glass-wall",
+            "door",
+            "plant",
+            "sidewalk"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_162227.jpg",
+        "tags": [
+            "glass-wall",
+            "building",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_160748.jpg",
+        "tags": [
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_162019.jpg",
+        "tags": [
+            "table",
+            "glass-wall",
+            "plant",
+            "tree",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_161126.jpg",
+        "tags": [
+            "plant",
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240917_162900.jpg",
+        "tags": [
+            "building",
+            "tree"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_161500.jpg",
+        "tags": [
+            "tree",
+            "plant",
+            "building",
+            "glass-wall"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240917_163128.jpg",
+        "tags": [
+            "bench",
+            "sidewalk"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_161007.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240917_162929.jpg",
+        "tags": [
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_162134.jpg",
+        "tags": [
+            "tree",
+            "building",
+            "glass-wall",
+            "plant"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240917_162831.jpg",
+        "tags": [
+            "tree",
+            "table",
+            "plant",
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s20x2,g1,49.88ms,350-1100)_20240917_162503.jpg",
+        "tags": [
+            "chair",
+            "table",
+            "plant",
+            "tree",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s40x2,g1,24.88ms,350-1100)_20240917_162304.jpg",
+        "tags": [
+            "building",
+            "glass-wall",
+            "tree"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240917_160454.jpg",
+        "tags": [
+            "glass-wall",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-09172024/dendai-1-roofgarden/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240917_162916.jpg",
+        "tags": [
+            "tree",
+            "building"
+        ],
+        "place": "dendai-1-roofgarden",
+        "status": "not review"
+    },
+    {
         "data_name": "static/images/RGB-08202024/dendai-5-3F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240820_141518.jpg",
         "tags": [
             "wall"
